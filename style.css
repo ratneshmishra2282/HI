@@ -18,10 +18,16 @@ body {
 
 
 .header {
-    background: #3bb0de;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #0b1c39;
     padding: 20px 0;
-    color: orange;
+    color: white;
+    z-index: 1000;
 }
+
 
 .container {
     width: 90%;
