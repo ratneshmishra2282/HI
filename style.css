@@ -94,7 +94,7 @@ nav a {
 }
 
 .card {
-    background: #808080;
+    background: grey ;
     padding: 35px;
     box-shadow: 0 10px 30px rgba(0,0,0,.08);
 }
